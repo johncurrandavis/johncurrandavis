@@ -1,4 +1,9 @@
-## Hi there 👋
+## Yo 👋
+
+## My GitHub Projects
+
+**People's Websites**
+→ github.com/Peoples-Websites
 
 <!--
 **johncurrandavis/johncurrandavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
